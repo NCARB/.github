@@ -1,6 +1,6 @@
-# [id:XXX](https://ncarb.tpondemand.com/entity/XXX)
-
 [brief description]
+
+[id:XXX](https://ncarb.tpondemand.com/entity/XXX)
 
 Checklist
 ----
